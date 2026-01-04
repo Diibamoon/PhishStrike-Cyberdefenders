@@ -1,8 +1,6 @@
 # PhishStrike-Cyberdefenders
 Week 10 - Lab Task Social Engineering - Blue Attack
 
-# PhishStrike – CyberDefenders Write-up
-
 ## Introduction
 PhishStrike is a blue team phishing investigation challenge that focuses on analyzing a malicious email used as an initial access vector. This write-up documents the process of identifying phishing indicators, understanding attacker techniques, and evaluating potential impact from a defensive cybersecurity perspective.
 
