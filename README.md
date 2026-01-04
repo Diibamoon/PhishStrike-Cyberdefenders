@@ -84,4 +84,20 @@ The PhishStrike challenge demonstrates how phishing remains an effective attack 
 ## References
 - CyberDefenders – PhishStrike
 - MITRE ATT&CK Framework (T1566 – Phishing)
+- Mxtoolbox
+- URLhaus
+- Virustotal
+- Malwarebazaar
+- Any Run
+- CyberChef
+- Tri.age
+
+---
+
+## Screenshots
+<img width="1877" height="956" alt="LabW10 - PhiserTrike11" src="https://github.com/user-attachments/assets/0ac37d70-b4be-4994-a2ce-134071f5921b" />
+<img width="1912" height="963" alt="LabW10 - PhiserTrike10" src="https://github.com/user-attachments/assets/3be3e6b1-ba34-4c1e-a26a-19cbeb63c905" />
+<img width="1912" height="855" alt="LabW10 - PhiserTrike9" src="https://github.com/user-attachments/assets/d425c097-4e33-4576-82ce-41c5d40574af" />
+<img width="1918" height="967" alt="LabW10 - PhiserTrike8" src="https://github.com/user-attachments/assets/fbfdd8a9-f329-4abf-9e37-75cc714f171c" />
+
 
