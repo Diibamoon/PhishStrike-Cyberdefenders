@@ -118,11 +118,18 @@ VirusTotal is an online security platform used to analyze files, URLs, IP addres
 MalwareBazaar is a threat intelligence platform used to collect, share, and analyze malware samples.
 <img width="1898" height="867" alt="LabW10 - PhiserTrike7" src="https://github.com/user-attachments/assets/cceea4b7-e9c5-4952-bc4f-f80dd2424940" />
 
-
-===
-   
-<img width="1912" height="963" alt="LabW10 - PhiserTrike10" src="https://github.com/user-attachments/assets/4d22dc73-56e3-4e15-a444-8afccbaddf42" />
-<img width="1877" height="956" alt="LabW10 - PhiserTrike11" src="https://github.com/user-attachments/assets/1f04c345-d1e0-48a1-9cb7-a614cf525f89" />
+7. ANY.RUN
+ANY.RUN is an interactive online malware sandbox used to analyze suspicious files and URLs in real time. Its allow analysts to interact with malware while its running. You also can click buttons, enter input and observe behavior live.
 <img width="1918" height="967" alt="LabW10 - PhiserTrike8" src="https://github.com/user-attachments/assets/8fcf8aaa-15e0-44fe-963b-ba932fc1a234" />
 <img width="1912" height="855" alt="LabW10 - PhiserTrike9" src="https://github.com/user-attachments/assets/35f9cf93-7212-4741-b5ca-69b663efb1c1" />
+
+8. CyberChef
+CyberChef is a web-based tool used to analyze, decode, encode, and transform data during cybersecurity investigations. You can put the input and choose recipe which is sequence of operations that you apply step-by-step to data in order to decode, analyze or tranform it.
+<img width="1912" height="963" alt="LabW10 - PhiserTrike10" src="https://github.com/user-attachments/assets/4d22dc73-56e3-4e15-a444-8afccbaddf42" />
+
+9. Tri.age
+10. Triage is an automated malware analysis platform used to analyze suspicious files and URLs and determine their malicious behavior. It helps analysts understand what the malware actually does, also it provide risk scores and indicators.
+<img width="1877" height="956" alt="LabW10 - PhiserTrike11" src="https://github.com/user-attachments/assets/1f04c345-d1e0-48a1-9cb7-a614cf525f89" />
+
+
 
