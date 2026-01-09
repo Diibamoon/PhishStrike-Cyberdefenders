@@ -96,14 +96,26 @@ The PhishStrike challenge demonstrates how phishing remains an effective attack 
 
 ## Screenshots
 
-
-<img width="1912" height="963" alt="LabW10 - PhiserTrike10" src="https://github.com/user-attachments/assets/4d22dc73-56e3-4e15-a444-8afccbaddf42" />
-<img width="1877" height="956" alt="LabW10 - PhiserTrike11" src="https://github.com/user-attachments/assets/1f04c345-d1e0-48a1-9cb7-a614cf525f89" />
+1.MxTOOLBOX
+Mxtoolbox is an online dignostic tool that use to check and troubleshoot email,DNS and domain-related issues. We need to put all the details content and it will show the result of the email.
 <img width="1918" height="932" alt="LabW10 - PhiserTrike" src="https://github.com/user-attachments/assets/b7dd0909-0c64-49c1-b508-46efee0b9a1c" />
 <img width="1897" height="825" alt="LabW10 - PhiserTrike1" src="https://github.com/user-attachments/assets/b2018163-2a36-4baf-9179-ea04f73c3f48" />
+
+2. URLHaus
+URLhaus is a public threat intelligence platform used to collect, track, and share information about malicious URLs that are actively used to distribute malware. Here show that some of the URL Tags with AsyncRAT, bitrat and CoinMiner
 <img width="1903" height="825" alt="LabW10 - PhiserTrike2" src="https://github.com/user-attachments/assets/e4eb388e-03b5-4bee-86cf-26b7eb58fe53" />
+
+3. VirusTotal
+VirusTotal is an online security platform used to analyze files, URLs, IP addresses, and domains to determine whether they are malicious.
 <img width="1902" height="826" alt="LabW10 - PhiserTrike3" src="https://github.com/user-attachments/assets/286199cf-bf93-4346-bc13-c2637edd25cb" />
+
+4. MalwareBazaar
+MalwareBazaar is a threat intelligence platform used to collect, share, and analyze malware samples.
 <img width="1902" height="867" alt="LabW10 - PhiserTrike4" src="https://github.com/user-attachments/assets/9892ba84-f0b9-4115-8972-1d53be8d10cf" />
+   
+<img width="1912" height="963" alt="LabW10 - PhiserTrike10" src="https://github.com/user-attachments/assets/4d22dc73-56e3-4e15-a444-8afccbaddf42" />
+<img width="1877" height="956" alt="LabW10 - PhiserTrike11" src="https://github.com/user-attachments/assets/1f04c345-d1e0-48a1-9cb7-a614cf525f89" />
+
 <img width="1902" height="962" alt="LabW10 - PhiserTrike5" src="https://github.com/user-attachments/assets/bd5078b1-cacc-49bc-a5a7-7aa611558373" />
 <img width="1897" height="867" alt="LabW10 - PhiserTrike6" src="https://github.com/user-attachments/assets/3120b403-fa64-461c-abab-a7612acc0035" />
 <img width="1898" height="867" alt="LabW10 - PhiserTrike7" src="https://github.com/user-attachments/assets/cceea4b7-e9c5-4952-bc4f-f80dd2424940" />
