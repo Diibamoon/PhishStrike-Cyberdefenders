@@ -128,7 +128,7 @@ CyberChef is a web-based tool used to analyze, decode, encode, and transform dat
 <img width="1912" height="963" alt="LabW10 - PhiserTrike10" src="https://github.com/user-attachments/assets/4d22dc73-56e3-4e15-a444-8afccbaddf42" />
 
 9. Tri.age
-10. Triage is an automated malware analysis platform used to analyze suspicious files and URLs and determine their malicious behavior. It helps analysts understand what the malware actually does, also it provide risk scores and indicators.
+Triage is an automated malware analysis platform used to analyze suspicious files and URLs and determine their malicious behavior. It helps analysts understand what the malware actually does, also it provide risk scores and indicators.
 <img width="1877" height="956" alt="LabW10 - PhiserTrike11" src="https://github.com/user-attachments/assets/1f04c345-d1e0-48a1-9cb7-a614cf525f89" />
 
 
